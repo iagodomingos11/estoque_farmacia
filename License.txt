@@ -1,0 +1,11 @@
+Copyright (c) 2025 Iago Domingos Pinto
+
+Este software foi desenvolvido exclusivamente para fins de demonstração e uso não comercial.
+
+É proibida a comercialização, revenda, modificação ou distribuição deste programa sem autorização prévia e por escrito do autor.
+
+O uso indevido poderá acarretar medidas legais com base na Lei de Direitos Autorais (Lei nº 9.610/98 - Brasil).
+
+Para negociações de uso comercial ou suporte contínuo, entre em contato: [seu e-mail aqui].
+
+Todos os direitos reservados.
