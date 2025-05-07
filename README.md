@@ -20,3 +20,8 @@ Sistema simples de gerenciamento de estoque desenvolvido em Python, com execuç�
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
    cd nome-do-repositorio
+
+   Licença de uso
+Este programa é fornecido apenas para fins de demonstração.
+Proibido o uso comercial sem permissão escrita do autor.
+Contato: iagodomingos87@gmail.com
