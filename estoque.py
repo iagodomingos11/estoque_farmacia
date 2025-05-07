@@ -1,5 +1,6 @@
-#gestão de estoque
-# Importando bibliotecas necessárias
+# Licença: Uso demonstrativo, proibida a comercialização sem autorização.
+# Autor: Iago Domingos Pinto (2025)
+
 import json
 import os
 
