@@ -1,27 +1,22 @@
-# 💊 Sistema de Gerenciamento de Estoque para Farmácia (Terminal - Python)
 
-Sistema simples de gerenciamento de estoque desenvolvido em Python, com execução via terminal. Ideal para controle básico de produtos de farmácia e demonstrações de uso.
+# FarmaStock - Sistema de Estoque para Farmácias
 
----
+FarmaStock é um sistema simples e funcional desenvolvido em Python, ideal para auxiliar pequenas farmácias no controle de estoque de medicamentos.
 
-## 📦 Funcionalidades
+## Funcionalidades
+- Cadastro de produtos
+- Consulta de estoque
+- Edição e remoção de itens
+- Armazenamento local dos dados em JSON
+- Interface simples via terminal
 
-- ✅ Adicionar produtos ao estoque
-- ✅ Remover produtos
-- ✅ Listar todos os produtos com nome, quantidade e preço
-- ✅ Buscar produtos pelo nome
-- ✅ Armazenamento automático dos dados em `estoque.json`
+## Tecnologias utilizadas
+- Python 3
+- Manipulação de arquivos JSON
+- Lógica de programação com condicionais e laços
 
----
-
-## ▶ Como Usar
-
+## Como executar
 1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   cd nome-do-repositorio
+```bash
+git clone https://github.com/iagodomingos11/estoque_farmacia.git
 
-   Licença de uso
-Este programa é fornecido apenas para fins de demonstração.
-Proibido o uso comercial sem permissão escrita do autor.
-Contato: iagodomingos87@gmail.com
